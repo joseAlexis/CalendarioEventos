@@ -193,8 +193,7 @@
 		</h3>	
 
 		<section>
-			Jose Bolaños <br>
-			Jose Avila
+			Jose Bolaños
 		</section>
 
 	</footer>
