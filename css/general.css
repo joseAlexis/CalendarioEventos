@@ -1,0 +1,86 @@
+/*Botones*/
+.boton{
+	height: 40px;
+	width: 80px;
+	border: 2px solid;
+	border-radius: 7px;
+	float: right;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	background-color: DarkSlateGray;
+	font-size: 0.9em;
+}
+
+/*Formato del titulo*/
+.titulo{
+	position: absolute;
+	top: 10%;
+	right: 45%;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: DarkSlateGray;	
+}
+
+/*Formato del pie de pagina*/
+#piePagina{
+	float: right;
+}
+
+/*Formato del contenido*/
+#contenido{
+	height: 50px;
+	width: 700px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	margin: 0% 25%;
+	text-align: center;
+}
+
+#contenido td, #contenido th {
+	height: 50px;
+	width: 700px;
+	font-size:1em;
+	padding:3px 7px 2px 7px;
+}
+
+#contenido th {
+	height: 50px;
+	width: 700px;
+	font-size:1.1em;
+	padding-top:5px;
+	padding-bottom:4px;
+	background-color: DarkSlateGray;
+	color:#ffffff;
+}
+
+div#centraTabla{
+	text-align: center;
+}
+
+div#centraTabla table{
+	margin: 0 auto;
+}
+
+.error{
+	color: red;
+	text-align: center;
+}
+
+div.navegacion{
+	text-align: center;
+}
+
+div.navegacion nav{
+	margin: 0 auto;
+	background-color: DarkSlateGray;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	height: 50px;
+	width: 500px;
+	color:#ffffff;
+}
+
+div.navegacion a{
+	color:#ffffff;
+	font-size:1.1em;
+	padding:5px 7px 2px 7px;
+	text-transform: uppercase;
+}

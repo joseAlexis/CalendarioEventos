@@ -1,0 +1,55 @@
+/*Fines de semana*/
+.finSemana{
+	background-color: gray;
+}
+
+/*Flechas cambio mes*/
+a.ant{
+	float: left;
+	text-decoration: none;
+}
+
+a.sig{
+	float: right;
+	text-decoration: none;
+}
+/*Fin flechas cambio mes*/
+
+/*Formato de los links*/
+a:link {
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#003366;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:active {
+	/*color: blue;*/
+	text-decoration: none;
+}
+/*Fin formato de los links*/
+
+/*Bordes de la tabla*/
+#contenido td, #contenido th {
+	border:1px solid DimGray ;
+}
+
+.enLinea{
+	display: inline;
+}
+
+.imgIzq{
+	margin-left: auto;
+}
+
+.imgDer{
+	margin-right: auto;
+}

@@ -1,0 +1,10 @@
+#idDetalle{
+	width: 300px;
+	height: 70px;
+	resize: none;
+}
+
+.error{
+	color: red;
+	text-align: center;
+}
